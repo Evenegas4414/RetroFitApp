@@ -12,7 +12,7 @@
         android:layout_height="150dp"
         android:scaleType="centerCrop" />
 
-    <!--
+ <!--
     <TextView
         android:id="@+id/item_price"
         android:layout_width="match_parent"
@@ -20,5 +20,6 @@
         android:textSize="16sp"
         android:paddingTop="8dp"
         />
--->
+
+        -->
 </LinearLayout>
